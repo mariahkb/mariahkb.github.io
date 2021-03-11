@@ -1,10 +1,10 @@
 ---
-title: "Welcome to Mariah Cornelison"
+title: "Welcome to The Job Hunt"
 description: |
-  Welcome to our new blog, Mariah Cornelison. We hope you enjoy 
+  Welcome to our new blog, The Job Hunt. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
+  - name: Mariah Cornelison 
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets

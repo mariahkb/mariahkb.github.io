@@ -2,18 +2,26 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "What is the Job Hunt About?",
+      "description": "This blog is about navigating the job market in the ever changing world of today. From COVID-19 reduce job availability to working from home. I, Mariah Cornelison, am here to share my experience of being on the hunt for a job in today's job landscape. ",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-04T16:26:29-07:00"
+      "last_modified": "2021-03-11T13:40:05-07:00"
     },
     {
       "path": "index.html",
       "title": "Mariah Cornelison",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-04T16:26:29-07:00"
+      "last_modified": "2021-03-11T13:40:05-07:00"
+    },
+    {
+      "path": "WiDS.html",
+      "title": "Women in Data Science Conference",
+      "description": "Tag Line ",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-11T13:40:05-07:00"
     }
   ],
   "collections": ["posts/posts.json"]

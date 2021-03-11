@@ -1,7 +1,7 @@
 ---
-title: "About this blog"
+title: "What is the Job Hunt About?"
 description: |
-  Some additional details about the blog
+  This blog is about navigating the job market in the ever changing world of today. From COVID-19 reduce job availability to working from home. I, Mariah Cornelison, am here to share my experience of being on the hunt for a job in today's job landscape. 
 ---
 
 ```{r setup, include=FALSE}
