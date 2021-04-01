@@ -31,7 +31,7 @@ We should listen to the problem we are trying to solve so we can have a better g
 
 If we do not understand what is going on, we need to ask questions. It does not matter if we look stupid in the process. If we come out of a meeting with an incorrect understanding of the scope of the project, then we probably did not ask enough questions. There are many stumbling blocks we can avoid if we take the time to ask the right questions. 
 	
-### Explain-ability with beats out Accuracy. 
+### Explain-ability which beats out Accuracy. 
 
 
 We may think when it comes to creating models that the one with the highest accuracy is the best. That would be an incorrect assumption. There are many metrics on which you can judge models. In fact, the statement mentioned over and over was, “Being able to explain a model beats having the best accuracy.” Now we may say that explain-ability is not a real metric because it cannot be measure or calculated, which is true. However, being able to explain what is happening will get people on board with the project and help move it forward.	
