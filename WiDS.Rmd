@@ -1,9 +1,44 @@
 ---
 title: "Women in Data Science Conference"
 description: |
-  Tag Line 
+  There is so much more to data science then just crunching numbers. 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## Data Science
+
+
+What is Data Science? I never heard this buzzword before January of 2018. The first time I heard about data science was in an intermediate statistics class. This is also when I was introduced to R and its beauty and complexities. 
+With the wonders of Technology and with COVID still prevalent, I was able to attend Women in Data Science Conference hosted by General Motors remotely. There were many profound and inspirational speakers that came from varying walks of life. There were some throughout the conference, and I would like to share those messages with you today.
+
+
+### Communication is Key.
+
+
+How often do we hear that we need to become better communicators? Whether that is through expressing our own thoughts and ideas or presenting to clients, communication is a crucial skill to have the data science field. This was commonly repeated in different variations and in slightly different ways.
+
+
+#### Listen to the problem.
+
+
+We should listen to the problem we are trying to solve so we can have a better grasp on what needs fixing. If we do not listen or understand, then the solution we come up with will often fall short. 
+
+
+#### Do not be afraid to ask questions. 
+
+
+If we do not understand what is going on, we need to ask questions. It does not matter if we look stupid in the process. If we come out of a meeting with an incorrect understanding of the scope of the project, then we probably did not ask enough questions. There are many stumbling blocks we can avoid if we take the time to ask the right questions. 
+	
+### Explain-ability with beats out Accuracy. 
+
+
+We may think when it comes to creating models that the one with the highest accuracy is the best. That would be an incorrect assumption. There are many metrics on which you can judge models. In fact, the statement mentioned over and over was, “Being able to explain a model beats having the best accuracy.” Now we may say that explain-ability is not a real metric because it cannot be measure or calculated, which is true. However, being able to explain what is happening will get people on board with the project and help move it forward.	
+
+
+### You need to Prove the value of the project/model.
+	
+	
+This last point ties in all the others points. If we do not show the value of our work and get others to hop on board, lots of our work will be wasted. 
+Why does our project matter? Is a question we should be asking ourselves throughout our projects. But even more important, others need to see the value of our project.  Even if a project is going to serve a great purpose, if no one else sees the value of our project is not going anywhere. It will either be dead before it starts, or we will waste hours of work into something that will never get used. 
